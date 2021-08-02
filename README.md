@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BHafsa) 👋
 
-<!--
-**BHafsa/BHafsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :book: About ME
+- 🖥 Bousbiat Hafsa, master graduate from the Ecole Superieure D'Informatique (ESI ex. INI) and currently enrolled in a PhD program in Information and Communication Engineering.
+- 💼 Senior Scientist at the DECIDE Doctoral College within the Digital Age Research Center (D!ARC), University of Klagenfurt
+- 🎓 Deep Load Disaggregation and its applications in Ambient and Assisted Living
+- :mailbox: hafsa.bousbiat@aau.at or eh_bousbiat@esi.dz  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⬆ Research Intrest
+- :one: Deep learning for time series.
+- :two: Anomaly detection in human behavior.
+- :three: Acceptance of smart home technologies.
+
+
+
