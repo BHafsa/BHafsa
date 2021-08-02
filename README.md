@@ -1,4 +1,4 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BHafsa) 👋
+### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BHafsa)
 
 
 ## :book: About ME
