@@ -7,7 +7,7 @@
 - 🎓 Deep Load Disaggregation and its applications in Ambient and Assisted Living
 - :mailbox: hafsa.bousbiat@aau.at or eh_bousbiat@esi.dz  
 
-## ⬆ Research Intrest
+## ⬆ Research Interest
 - :one: Deep learning for time series.
 - :two: Anomaly detection in human behavior.
 - :three: Acceptance of smart home technologies.
