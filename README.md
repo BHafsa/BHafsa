@@ -1,4 +1,4 @@
-### Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BHafsa)
+### Hi there 👋 
 
 
 ## :book: About ME
@@ -10,7 +10,7 @@
 ## ⬆ Research Interest
 - :one: Deep learning for time series.
 - :two: Anomaly detection in human behavior.
-- :three: Acceptance of smart home technologies.
+- :three: ML applications in wearable devices and smart homes.
 
 
 
