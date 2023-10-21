@@ -4,7 +4,7 @@
 ## :book: About ME
 - 💼 ML enthousiast continiously conducting research about their applications
 
-- :mailbox: hafsa.bousbiat@gmail.at 
+- :mailbox: hafsa.bousbiat@gmail.com
 
 ## ⬆ Research Interest
 - :one: Deep learning for time series.
